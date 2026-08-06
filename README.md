@@ -1,5 +1,1 @@
-# Lista de Tarefas
-Projeto para estudo
-teste
-teste
-testeAtualização
+#Projeto Lista de tarefas - versão main
